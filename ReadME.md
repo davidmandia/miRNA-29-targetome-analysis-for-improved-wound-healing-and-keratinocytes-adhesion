@@ -1,9 +1,8 @@
-#This repository includes the files regarding the research project. Please do not hesitate to contact me on david.mandia@yahoo.com
+# This repository includes the files regarding the research project including the Supplementary Material. Please do not hesitate to contact me on david.mandia@yahoo.com
 
-# I have divided the repository into three sub-folders. One per part of the experiment, The gene set enrichment analysis, pathway analysis, and gene network 
-
-## I have created a repository for the gene network analysis to make the access to the code easier. See below the read.me for the gene network part 
-
+### I have divided the repository into three sub-folders. One per each part of the overall reseach, The gene set enrichment analysis, pathway analysis, and gene network. The MirCLip+Data folder contains the result of direct targeting obtained through data manipulation and Webgestalt ( Gene Enrichment). Similarly, the PI data +Webgestalt result folder containd the result of gene expression analysis following miRNA knockout.
+### Lastly, gene network contains the data and the script for the gene network analysis using gene expression, GO term, and clustering.
+### See below for more details 
 
 # Gene Network Analysis with R
 
