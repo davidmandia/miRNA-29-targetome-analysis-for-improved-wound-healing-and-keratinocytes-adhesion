@@ -1,8 +1,10 @@
-# This repository includes the files regarding the research project including the Supplementary Material. Please do not hesitate to contact me on david.mandia@yahoo.com
+# Research Project 
 
-### I have divided the repository into three sub-folders. One per each part of the overall reseach, The gene set enrichment analysis, pathway analysis, and gene network. The MirCLip+Data folder contains the result of direct targeting obtained through data manipulation and Webgestalt ( Gene Enrichment). Similarly, the PI data +Webgestalt result folder containd the result of gene expression analysis following miRNA knockout.
-### Lastly, gene network contains the data and the script for the gene network analysis using gene expression, GO term, and clustering.
-### See below for more details 
+#### This repository includes the files regarding the research project including the Supplementary Material. Please do not hesitate to contact me on david.mandia@yahoo.com
+
+#### I have divided the repository into three sub-folders. One per each part of the overall reseach, The gene set enrichment analysis, pathway analysis, and gene network. The MirCLip+Data folder contains the result of direct targeting obtained through data manipulation and Webgestalt ( Gene Enrichment). Similarly, the PI data +Webgestalt result folder containd the result of gene expression analysis following miRNA knockout.
+#### Lastly, gene network contains the data and the script for the gene network analysis using gene expression, GO term, and clustering.
+#### See below for more details 
 
 # Gene Network Analysis with R
 
@@ -37,6 +39,8 @@ You can install these packages using the `install.packages()` function if they a
 
 4. **Output**: The script generates a JPEG image ("final_test.jpeg") containing the visual representation of the gene network with labeled clusters and annotated GO terms.
 
+   #### Example of the output
+<img src="https://raw.githubusercontent.com/davidmandia/miRNA-29-targetome-analysis-for-improved-wound-healing-and-keratinocytes-adhesion/main/gene%20network/final_test.jpeg" alt="gene network final test" width="400">
 ## Notes
 
 - Adjustments may be needed based on the size of the input data and the complexity of the gene network.
